@@ -1,0 +1,6 @@
+# Ignore unnecessary files
+*.log          # Log files
+*.tmp          # Temporary files
+.DS_Store      # macOS system files
+node_modules/  # Node.js dependencies
+.env           # Environment variable files
